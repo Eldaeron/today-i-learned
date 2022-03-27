@@ -11,7 +11,7 @@ Eleks [Тестовий репозиторій]
   $ git add first-file.txt
   
 3. Поточний статус git
-  $ git status
+  `$ git status
   On branch master
   Your branch is up-to-date with 'origin/master'.
   Changes to be committed:
@@ -20,13 +20,13 @@ Eleks [Тестовий репозиторій]
       new file:   first-file.txt
   
  4. Збереження змін у комітах (commit)
-  $ git commit -m "First-file test"
+  `$ git commit -m "First-file test"
   [master 999999] First-file test
   1 files changed, 1 insertions(+)
 
 Основи гіта: https://learngitbranching.js.org/?locale=uk
-  $ Команда для створення нових гілок: git branch <name>; git branch bugFix
-  $ Команда перейти на новостворену гілку, або на основну <main>: git checkout <name>; git checkout bugFix
-  $ Команда для злиття гілок в одну гілку: git merge <name>; git merge bugFix
-  $ Альтернативна команда для злиття (ребейс): git rebase <name>; git rebase main
+  `$ Команда для створення нових гілок: git branch <name>; git branch bugFix
+  `$ Команда перейти на новостворену гілку, або на основну <main>: git checkout <name>; git checkout bugFix
+  `$ Команда для злиття гілок в одну гілку: git merge <name>; git merge bugFix
+  `$ Альтернативна команда для злиття (ребейс): git rebase <name>; git rebase main
   
