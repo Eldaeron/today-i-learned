@@ -4,14 +4,14 @@ Eleks [Тестовий репозиторій]
 ![image](https://user-images.githubusercontent.com/23397333/160283892-aef152ae-239e-419f-ab42-20ce849b9234.png)
 
 1. Ініціалізація git в директорії
-  git init 
+  - git init 
   Initialized empty Git repository in desktop/module-git/ 
 
 2. Додавання нових файлів до git
-  git add first-file.txt
+  - git add first-file.txt
   
 3. Поточний статус git
-  git status
+  - git status
   On branch master
   Your branch is up-to-date with 'origin/master'.
   Changes to be committed:
