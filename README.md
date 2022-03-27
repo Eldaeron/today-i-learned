@@ -4,8 +4,8 @@ Eleks [Тестовий репозиторій]
 ![image](https://user-images.githubusercontent.com/23397333/160283892-aef152ae-239e-419f-ab42-20ce849b9234.png)
 
 1. Ініціалізація git в директорії
-  - git init 
-  - Initialized empty Git repository in desktop/module-git/ 
+  - git init
+! Initialized empty Git repository in desktop/module-git/ 
 
 2. Додавання нових файлів до git
   - git add first-file.txt
